@@ -32,18 +32,21 @@ Run the application:
 
 💡 Tip: Use MongoDB Atlas for free cloud database hosting.
 
-🧪 Tech Stack
+**🧪 Tech Stack**
 
-Technology	Purpose
-Python	Core programming language
+**Technology	Purpose**
+**Python	Core programming language**
+
 Flask	Web framework
 MongoDB	NoSQL database (Atlas hosted)
 HTML5	Frontend structure
 CSS3	Styling
 JavaScript	Frontend interactivity
 Bootstrap	Responsive UI framework
-📂 Project Structure
-Price-Tracker/
+
+
+**📂 Project Structure**
+**Price-Tracker/**
 ├── static/           # CSS, JS files
 ├── templates/        # HTML templates
 ├── app.py            # Main Flask app
