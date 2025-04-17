@@ -34,20 +34,20 @@ app.config['MONGO_URI'] = "your-mongodb-uri"
 
 🧪 Tech Stack
 Technology and Purpose
-Python for Backend programming
-Flask because its Lightweight web framework
-MongoDB for NoSQL database
-HTML5 for Webpage structure
-CSS3 for Styling
-JavaScript for Frontend interactivity
+Python for Backend programming,
+Flask because its Lightweight web framework,
+MongoDB for NoSQL database,
+HTML5 for Webpage structure,
+CSS3 for Styling,
+JavaScript for Frontend interactivity,
 Bootstrap for Responsive frontend design
 
 📁 Project Structure
-E-Commerce-Price-Tracker/
-├── static/             # CSS, JS files
-├── templates/          # HTML templates
-├── app.py              # Main Flask app
-├── run                 # Run script
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
+E-Commerce-Price-Tracker
+static/             # CSS, JS files,
+templates/          # HTML templates,
+app.py              # Main Flask app,
+run                 # Run script,
+requirements.txt    # Python dependencies,
+README.md           # Project documentation
 
