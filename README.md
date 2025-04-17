@@ -33,14 +33,14 @@ app.config['MONGO_URI'] = "your-mongodb-uri"
 ./run
 
 🧪 Tech Stack
-Technology | Purpose
-Python | Backend programming
-Flask | Lightweight web framework
-MongoDB | NoSQL database
-HTML5 | Webpage structure
-CSS3 | Styling
-JavaScript | Frontend interactivity
-Bootstrap | Responsive frontend design
+Technology and Purpose
+Python for Backend programming
+Flask because its Lightweight web framework
+MongoDB for NoSQL database
+HTML5 for Webpage structure
+CSS3 for Styling
+JavaScript for Frontend interactivity
+Bootstrap for Responsive frontend design
 
 📁 Project Structure
 E-Commerce-Price-Tracker/
